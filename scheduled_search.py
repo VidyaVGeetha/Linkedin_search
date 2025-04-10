@@ -10,8 +10,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # === CONFIGURATION ===
-LINKEDIN_USERNAME = 'ece.kishor@gmail.com'
-LINKEDIN_PASSWORD = 'Nila*777'
+LINKEDIN_USERNAME = 'effffff'
+LINKEDIN_PASSWORD = 'ggggg'
 JOB_TITLE = 'Firmware Engineer OR Embedded Engineer OR Embedded Systems'
 LOCATION = 'Scotland'
 LOG_FILE = 'application_log.csv'
